@@ -1,7 +1,4 @@
 Production text
-<<<<<<< HEAD
 Int update
 F2 branch
-=======
 F1 updates
->>>>>>> F1 initial commit
